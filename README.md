@@ -1,6 +1,6 @@
 # Creative Templates App
 
-A modern, visual template editor and dashboard built with Next.js, React-Konva, and Supabase.
+Visual template editor and dashboard built with Next.js, React-Konva, and Supabase.
 
 ## 1. How to Run Locally
 
@@ -56,7 +56,7 @@ The project uses Supabase for DB and API. Needs Docker to run locally, install i
 3. **Stop Supabase**:
    To stop the local Supabase instance, run:
    ```bash
-   npx supabase db reset
+   npx supabase stop
    ```
 
 ## 3. Known Limitations & Future Improvements

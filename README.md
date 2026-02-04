@@ -39,7 +39,7 @@ npm test
 
 ## 2. How to Set up the Database
 
-The project uses Supabase for DB and API. Install if needed.
+The project uses Supabase for DB and API. Needs Docker to run locally, install if needed.
 
 1. **Initialize Supabase**:
    If you have the Supabase CLI installed, run:
